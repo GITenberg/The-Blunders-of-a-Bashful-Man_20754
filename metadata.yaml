@@ -1,0 +1,38 @@
+_repo: The-Blunders-of-a-Bashful-Man_20754
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20754-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Victor, Metta Victoria Fuller
+    aliases:
+    - Regester, Seeley
+    - Register, Seeley
+    - Peabody, Mark, Mrs.
+    - James, Orrin, Mrs.
+    - Victor, M. V. (Metta Victoria)
+    - Gray, Walter T.
+    - Fuller, Metta Victoria
+    - Victor, Metta V.
+    - Kennedy, Rose
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '9505'
+    url: http://www.gutenberg.org/2009/agents/9505
+    wikipedia: http://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
+description: ''
+gutenberg_issued: '2007-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+title: The Blunders of a Bashful Man
+url: http://www.gutenberg.org/ebooks/20754
