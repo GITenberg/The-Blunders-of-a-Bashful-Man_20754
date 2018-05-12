@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9505
     wikipedia: http://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20754#The-Blunders-of-a-Bashful-Man
 gutenberg_issued: '2007-03-06'
 gutenberg_type: Text
 identifiers:
